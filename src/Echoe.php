@@ -1,6 +1,6 @@
 <?php
 
-namespace PHPSandbox\Echo;
+namespace PHPSandbox\Echoe;
 
 class Echoe
 {
