@@ -6,6 +6,7 @@ class Echoe
 {
     public static function call(): void
     {
-        echo "Echo Called";
+        echo "Echo Called\n";
+        echo "Echo Called again\n";
     }
 }
