@@ -1,0 +1,14 @@
+{
+  "name": "phpsandbox/echo",
+  "type": "library",
+  "license": "MIT",
+  "description": "PHPSandbox Echo package",
+  "require": {
+  },
+  "require-dev": {},
+  "autoload": {
+    "psr-4": {
+      "PHPSandbox\\Echo\\": "src/"
+    }
+  }
+}
